@@ -1,0 +1,5 @@
+venv/
+.env
+start.sh
+.vscode
+__pycache__/
