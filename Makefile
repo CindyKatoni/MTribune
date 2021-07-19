@@ -4,6 +4,7 @@ serve:
 
 migrate:
 	./manage.py migrate
+	#python manage.py migrate
 	
 migrations:
 	./manage.py makemigrations $(app)
